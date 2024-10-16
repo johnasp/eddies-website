@@ -5,12 +5,14 @@ PS: Make sure you change ALL of the listed CSS properties.
 */
 
 body {
-   background: greenyellow;     /* red, blue, yellow, etc */
-   color: black;             /* red, blue, yellow, etc */
-   font-size:100px;        /* 0px - 100px and beyond */
-   font-weight: bold;   /* lighter, normal, bold  */
-   text-align: center;      /* left, center or right  */ 
-   margin-top: 50vh;        /* From 0px and upwards   */
+   background: greenyellow;
+}
+p {
+   color: black;            
+   font-size:100px;        
+   font-weight: bold;  
+   text-align: center;      
+   margin-top: 35vh;  
 }
 
 
