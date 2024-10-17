@@ -1,0 +1,32 @@
+body {
+    background: white;
+}
+div {
+    text-align: center;
+}
+img {  
+    width: 350px;
+    height: auto;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+input {
+    display: block;
+    margin: 0 auto;
+    border: 1px solid lightgray;
+    width: 500px;
+    padding: 10px 24px;
+    border-radius: 20px;
+    font-size: 18px;
+    color: grey;
+    margin-bottom: 30px;
+}
+button {
+    border: 0;
+    padding: 12px 20px;
+    background: #f6f6f6;
+    border-radius: 6px;
+}
+.search-btn {
+    margin-right: 6px;
+}
